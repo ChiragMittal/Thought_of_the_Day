@@ -1,0 +1,34 @@
+{
+  "name": "thought_of_the_day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiragMittal/Thought_of_the_Day.git"
+  },
+  "author": "CHG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiragMittal/Thought_of_the_Day/issues"
+  },
+  "homepage": "https://github.com/ChiragMittal/Thought_of_the_Day#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "helmet": "^3.21.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.1",
+    "morgan": "^1.9.1",
+    "node": "^12.13.0",
+    "nodemon": "^1.19.2"
+  }
+}
